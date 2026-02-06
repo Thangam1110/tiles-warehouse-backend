@@ -30,8 +30,6 @@
 		<java.version>17</java.version>
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
-	</properties>
-	<properties>
   <sonar.organization>thangam1110</sonar.organization>
 </properties>
 	<dependencies>
